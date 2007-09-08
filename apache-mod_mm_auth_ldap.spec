@@ -7,7 +7,7 @@
 Summary:	LDAP Authentication module for Apache 2.x
 Name:		apache-%{mod_name}
 Version:	3.11
-Release:	%mkrel 4
+Release:	%mkrel 5
 Group:		System/Servers
 License:	GPL
 URL:		http://www.muquit.com/muquit/software/mod_auth_ldap/mod_auth_ldap.html
