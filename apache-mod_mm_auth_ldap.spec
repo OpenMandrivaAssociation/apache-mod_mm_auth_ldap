@@ -26,6 +26,7 @@ Requires:	apache-conf >= %{apache_version}
 Requires:	apache >= %{apache_version}
 BuildRequires:	apache-devel >= %{apache_version}
 BuildRequires:	file
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 LDAP Authentication module for Apache 2.x
