@@ -10,7 +10,7 @@ Version:	3.11
 Release:	18
 Group:		System/Servers
 License:	GPL
-URL:		http://www.muquit.com/muquit/software/mod_auth_ldap/mod_auth_ldap.html
+URL:		https://www.muquit.com/muquit/software/mod_auth_ldap/mod_auth_ldap.html
 Source0:	http://www.muquit.com/muquit/software/mod_auth_ldap/mm_mod_auth_ldap%{version}.tar.bz2
 Source1:	%{mod_conf}
 BuildRequires:	openssl-devel
